@@ -5,6 +5,8 @@
 
 Chatscope is a Streamlit-based web application designed to analyze WhatsApp chat data. It provides insights and statistics from chat exports, such as message frequency, word usage, and user activity. 
 
+![Chatscope Home](assets/chatscope.png)
+
 ## Features
 - **Message statistics**: Track total messages, words, and media shared.
 - **User-specific insights**: Analyze activity by individual participants.
