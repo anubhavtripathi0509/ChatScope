@@ -135,11 +135,5 @@ if uploaded_file is not None:
             st.pyplot(fig)
 
 
-
-
-
-
-
-
-
-
+        # #analyse the sentiments
+        # helper.sentiment_analysis(selected_user, df)
